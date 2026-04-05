@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+
 ## Contact
 
-- 📫 Email: <yli413241@gmail.com>
-- 🌐 Personal Website: <https://yanjie128.github.io/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yli413241@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yanjie128.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanjie128)
